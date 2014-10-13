@@ -13,11 +13,11 @@
   font-size: 26px;
 }
 .download-info {
-  margin-top: 40px;
+  margin-top: 25px;
   line-height: 36px;
 }
 .jumbo-button {
-  font-size: 20px;
+  font-size: 24px;
   font-weight: normal;
   padding: 14px 24px;
   margin: 7px 7px 7px 10px;
@@ -26,6 +26,10 @@
           border-radius: 6px;
 }
 .jumbo-button small {
+  font-size: 14px;
+  color: #ccc;
+}
+p.older-versions {
   font-size: 14px;
 }
 .footer {

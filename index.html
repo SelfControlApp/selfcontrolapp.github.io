@@ -1,137 +1,139 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>SelfControl</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="SelfControl is a free Mac application to help you avoid distracting websites.">
+	<head>
+		<meta charset="utf-8">
+		<title>SelfControl</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="SelfControl is a free Mac application to help you avoid distracting websites.">
 		<meta name="keywords" content="SelfControl, self control, self-control, mac, app, focus, concentrate, study, application, software, student, distracting, distractions, blacklist, whitelist, block, internet, charlie stigler, steve lambert, cstigler, thiel fellow, slambert, github, open source">
-    <meta name="author" content="Charlie Stigler, Steve Lambert">
+		<meta name="author" content="Charlie Stigler, Steve Lambert">
 
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
-    <link href="css/app.css" rel="stylesheet">
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+		<link href="css/app.css" rel="stylesheet">
 
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+		<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+		<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
 
-    <!-- fav and touch icons -->
-    <link rel="shortcut icon" href="img/favicon.ico">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="img/apple-touch-icon-57-precomposed.png">
+		<!-- fav and touch icons -->
+		<link rel="shortcut icon" href="img/favicon.ico">
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/apple-touch-icon-144-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-touch-icon-114-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-touch-icon-72-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" href="img/apple-touch-icon-57-precomposed.png">
 		
 		<script type="text/javascript">
-		  var _gaq = _gaq || [];
-		  _gaq.push(['_setAccount', 'UA-33332830-1']);
-		  _gaq.push(['_trackPageview']);
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-33332830-1']);
+			_gaq.push(['_trackPageview']);
 
-		  (function() {
-		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		  })();
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
 		</script>
-    <script type="text/javascript">
-      var addthis_config = {
-        'data_track_addressbar': false,
-        'data_track_clickback': false
-      };
-      var addthis_share = {
-        url: 'http://selfcontrolapp.com'
-      }
-    </script>
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5114b9295f9bed28"></script>
-  </head>
+		<script type="text/javascript">
+			var addthis_config = {
+				'data_track_addressbar': false,
+				'data_track_clickback': false
+			};
+			var addthis_share = {
+				url: 'http://selfcontrolapp.com'
+			}
+		</script>
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5114b9295f9bed28"></script>
+	</head>
 
-  <body>
+	<body>
 
-    <div class="navbar navbar-fixed-top">
-      <div class="navbar-inner">
-        <div class="container">
-          <button type="button"class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="brand" href="./index.html">SelfControl</a>
-          <div class="nav-collapse collapse">
-            <ul class="nav">
-              <li class="active">
-                <a href="./index.html">Overview</a>
-              </li>
-              <li class="">
-                <a href="http://downloads.selfcontrolapp.com/SelfControl-2.0.zip">Download</a>
-              </li>
-              <li class="">
-                <a href="https://github.com/SelfControlApp/selfcontrol/wiki/FAQ" target="_blank">FAQ</a>
-              </li>
-              <li class="">
-                <a href="https://github.com/SelfControlApp/selfcontrol/" target="_blank">Code</a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
+		<div class="navbar navbar-fixed-top">
+			<div class="navbar-inner">
+				<div class="container">
+					<button type="button"class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="brand" href="./index.html">SelfControl</a>
+					<div class="nav-collapse collapse">
+						<ul class="nav">
+							<li class="active">
+								<a href="./index.html">Overview</a>
+							</li>
+							<li class="">
+								<a href="http://downloads.selfcontrolapp.com/SelfControl-2.0.zip">Download</a>
+							</li>
+							<li class="">
+								<a href="https://github.com/SelfControlApp/selfcontrol/wiki/FAQ" target="_blank">FAQ</a>
+							</li>
+							<li class="">
+								<a href="https://github.com/SelfControlApp/selfcontrol/" target="_blank">Code</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
 
-      <!-- AddThis Button BEGIN -->
-      <div class="addthis_toolbox addthis_default_style" addthis:url="http://selfcontrolapp.com" addthis:title="SelfControl" addthis:description="SelfControl is a free Mac application to help you avoid distracting websites.">
-        <a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:href="http://selfcontrolapp.com"></a>
-        <a class="addthis_button_tweet" tw:url="http://selfcontrolapp.com"></a>
-        <a class="addthis_button_google_plusone" g:plusone:size="medium"></a> 
-        <a class="addthis_counter addthis_pill_style"></a>
-      </div>
-      <!-- AddThis Button END -->
-    </div>
+			<!-- AddThis Button BEGIN -->
+			<div class="addthis_toolbox addthis_default_style" addthis:url="http://selfcontrolapp.com" addthis:title="SelfControl" addthis:description="SelfControl is a free Mac application to help you avoid distracting websites.">
+				<a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:href="http://selfcontrolapp.com"></a>
+				<a class="addthis_button_tweet" tw:url="http://selfcontrolapp.com"></a>
+				<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+				<a class="addthis_counter addthis_pill_style"></a>
+			</div>
+			<!-- AddThis Button END -->
+		</div>
 
-    <div class="container-fluid top-container">
-	
+		<div class="container-fluid top-container">
+
 			<div class="hero-unit">
 				<div class="row-fluid">
 					<div class="span3">
 						<img src="img/logo.png" alt="SelfControl Logo">
 					</div>
 					<div class="span9">
-					  <h1>SelfControl</h1>
-					  <h2 class="tagline">A free Mac application to help you avoid distracting websites.</h2>
-				    <p class="download-info">
-				      <a href="https://github.com/SelfControlApp/selfcontrol/" class="btn btn-large jumbo-button" onclick="_gaq.push(['_trackEvent', 'Hero button actions', 'GitHub Code', 'View code on GitHub']);">View code on GitHub</a>
-				      <a href="http://downloads.selfcontrolapp.com/SelfControl-2.0.zip" class="btn btn-primary btn-large jumbo-button" onclick="_gaq.push(['_trackEvent', 'Hero button actions', 'Download', 'Download SelfControl']);">Download SelfControl</a>
-				    </p>
+						<h1>SelfControl</h1>
+						<h2 class="tagline">A free Mac application to help you avoid distracting websites.</h2>
+						<p class="download-info">
+							<a href="http://downloads.selfcontrolapp.com/SelfControl-2.0.zip" class="btn btn-primary btn-large jumbo-button" onclick="_gaq.push(['_trackEvent', 'Hero button actions', 'Download', 'Download SelfControl']);">
+								Download SelfControl
+								<br>
+								<small>v2.0, for Mac OS X 10.7+</small>
+							</a>
+						</p>
+						<p class="older-versions">Users of older OS versions can <a href="http://downloads.selfcontrolapp.com/SelfControl-1.5.1.zip">download SelfControl 1.5.1</a> for Mac OS X 10.5+.</p>
 					</div>
 				</div>
 				<hr>
 				<div class="row-fluid">
 					<div class="span12">
-						<p>SelfControl is a free and open-source application for Mac OS X (10.7 or above) that lets you block <strong>your own</strong> access to distracting websites, your mail servers, or anything else on the Internet. Just set a period of time to block for, add sites to your blacklist, and click "Start."  Until that timer expires, you will be unable to access those sites--even if you restart your computer or delete the application.</p>
+						<p>SelfControl is a free and open-source application for Mac OS X that lets you block <strong>your own</strong> access to distracting websites, your mail servers, or anything else on the Internet. Just set a period of time to block for, add sites to your blacklist, and click "Start."  Until that timer expires, you will be unable to access those sites--even if you restart your computer or delete the application.</p>
 					</div>
 				</div>
 			</div>
 
-     <!-- Footer
-      ================================================== -->
-      <footer class="footer">
-        <!-- AddThis Button BEGIN -->
-        <div class="addthis_toolbox addthis_default_style ">
-          <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
-          <a class="addthis_button_tweet"></a>
-          <a class="addthis_button_google_plusone" g:plusone:size="medium"></a> 
-          <a class="addthis_counter addthis_pill_style"></a>
-        </div>
-        <!-- AddThis Button END -->
-        <p>Brought to you by <a href="http://charliestigler.com" target="_blank">Charlie Stigler</a> of <a href="http://www.zaption.com" target="_blank">Zaption</a> and <a href="http://visitsteve.com" target="_blank">Steve Lambert</a>.</p>
-				<p>Translations thanks to Lukas Bestle, Paul Ishii, Cynthia Lawson, Heather Rasley, Tian Zheng, and ilTofa.
-				Contributions from others are always welcome.</p>
-        <p>Licensed under the <a href="http://www.gnu.org/copyleft/gpl.html" target="_blank">GNU GPL</a>. View and contribute to the code at <a href="https://github.com/SelfControlApp/selfcontrol/" target="_blank">GitHub</a>.</p>
-      </footer>
+			<!-- Footer ================================================== -->
+			<footer class="footer">
+				<!-- AddThis Button BEGIN -->
+				<div class="addthis_toolbox addthis_default_style ">
+					<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+					<a class="addthis_button_tweet"></a>
+					<a class="addthis_button_google_plusone" g:plusone:size="medium"></a> 
+					<a class="addthis_counter addthis_pill_style"></a>
+				</div>
+				<!-- AddThis Button END -->
+				<p>Brought to you by <a href="http://charliestigler.com" target="_blank">Charlie Stigler</a> of <a href="http://www.zaption.com" target="_blank">Zaption</a> and <a href="http://visitsteve.com" target="_blank">Steve Lambert</a>.</p>
+				<p>Translated into 10 languages by <a href="https://github.com/SelfControlApp/selfcontrol/wiki/Translation-Credits">these wonderful folks</a>. <a href="https://github.com/SelfControlApp/selfcontrol/graphs/contributors">Contributions from others</a> are always welcome.</p>
+				<p>Licensed under the <a href="http://www.gnu.org/copyleft/gpl.html" target="_blank">GNU GPL</a>. View and contribute to the code at <a href="https://github.com/SelfControlApp/selfcontrol/" target="_blank">GitHub</a>.</p>
+			</footer>
 
-    </div><!-- /container -->
+		</div><!-- /container -->
 
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
 
-  </body>
+	</body>
 </html>
