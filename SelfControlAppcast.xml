@@ -146,7 +146,6 @@
           <enclosure url="http://downloads.selfcontrolapp.com/SelfControl-2.0.zip"
                      length="2135756"
                      sparkle:version="2.0"
-                     csparkle:shortVersionString="2.0"
                      sparkle:dsaSignature="MC0CFQCP0SbhxXVrLRrzh6vYUl1xa+4brQIUE2v3dWnW6oZaR/tzJq+qGgNERIc="
                      type="application/octet-stream"
                      />
