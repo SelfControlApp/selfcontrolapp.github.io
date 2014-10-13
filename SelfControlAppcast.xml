@@ -144,9 +144,9 @@
           </sparkle:releaseNotesLink>
           <pubDate>Sun, 12 Oct 2014 19:14:54 -0700</pubDate>
           <enclosure url="http://downloads.selfcontrolapp.com/SelfControl-2.0.zip"
-                     length="2135756"
+                     length="2135790"
                      sparkle:version="2.0"
-                     sparkle:dsaSignature="MC0CFQCP0SbhxXVrLRrzh6vYUl1xa+4brQIUE2v3dWnW6oZaR/tzJq+qGgNERIc="
+                     sparkle:dsaSignature="MC0CFA/SIaSTF1O1BwgyYBfTh6tSBsP7AhUAgeVYZP2pQ8DCxs1NXUXXI9KVPYY="
                      type="application/octet-stream"
                      />
           <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
