@@ -170,11 +170,11 @@
           <sparkle:releaseNotesLink>
             http://selfcontrolapp.com/releasenotes.html#collapse-2-1
           </sparkle:releaseNotesLink>
-          <pubDate>Tue, 21 Oct 2014 10:23:39 -0700</pubDate>
+          <pubDate>Mon, 04 Jan 2016 00:43:00 -0700</pubDate>
           <enclosure url="http://downloads.selfcontrolapp.com/SelfControl-2.1.zip"
           length="2464615"
           sparkle:version="2.1"
-          sparkle:dsaSignature="MCwCFBArvGJy5GjdoTqkUBmP82vF4u8PAhQBpKuzGy3P29OojJMvlKaro18jPg=="
+          sparkle:dsaSignature="MCwCFCSsV1jLcvksU0qwCmWPtYCkCHOvAhRKODTqlu/snv4Ld4VVpEYhGFizhA=="
           type="application/octet-stream"
           />
           <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
