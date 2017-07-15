@@ -104,7 +104,7 @@
         https://selfcontrolapp.com/releasenotes.html#collapse-1-4-4
         </sparkle:releaseNotesLink>
         <pubDate>Wed, 12 Dec 2012 16:51:21 -0800</pubDate>
-        <enclosure url="http://downloads.selfcontrolapp.com/SelfControl-1.4.4.zip"
+        <enclosure url="https://downloads.selfcontrolapp.com/SelfControl-1.4.4.zip"
                    sparkle:version="1.4.4"
                    type="application/octet-stream"
                    length="1138233"
@@ -117,7 +117,7 @@
         https://selfcontrolapp.com/releasenotes.html#collapse-1-5
         </sparkle:releaseNotesLink>
         <pubDate>Wed, 06 Feb 2013 12:54:59 -0800</pubDate>
-        <enclosure url="http://downloads.selfcontrolapp.com/SelfControl-1.5.zip"
+        <enclosure url="https://downloads.selfcontrolapp.com/SelfControl-1.5.zip"
                    sparkle:version="1.5"
                    type="application/octet-stream"
                    length="1033155"
@@ -130,7 +130,7 @@
         https://selfcontrolapp.com/releasenotes.html#collapse-1-5-1
         </sparkle:releaseNotesLink>
         <pubDate>Wed, 13 Mar 2013 01:41:24 -0700</pubDate>
-        <enclosure url="http://downloads.selfcontrolapp.com/SelfControl-1.5.1.zip"
+        <enclosure url="https://downloads.selfcontrolapp.com/SelfControl-1.5.1.zip"
                      sparkle:version="1.5.1"
                      type="application/octet-stream"
                      length="1066039"
@@ -143,7 +143,7 @@
           https://selfcontrolapp.com/releasenotes.html#collapse-2-0
           </sparkle:releaseNotesLink>
           <pubDate>Sun, 12 Oct 2014 19:14:54 -0700</pubDate>
-          <enclosure url="http://downloads.selfcontrolapp.com/SelfControl-2.0.zip"
+          <enclosure url="https://downloads.selfcontrolapp.com/SelfControl-2.0.zip"
                      length="2135790"
                      sparkle:version="2.0"
                      sparkle:dsaSignature="MC0CFA/SIaSTF1O1BwgyYBfTh6tSBsP7AhUAgeVYZP2pQ8DCxs1NXUXXI9KVPYY="
@@ -157,7 +157,7 @@
             https://selfcontrolapp.com/releasenotes.html#collapse-2-0-2
           </sparkle:releaseNotesLink>
           <pubDate>Tue, 21 Oct 2014 10:23:39 -0700</pubDate>
-          <enclosure url="http://downloads.selfcontrolapp.com/SelfControl-2.0.2.zip"
+          <enclosure url="https://downloads.selfcontrolapp.com/SelfControl-2.0.2.zip"
           length="2149223"
           sparkle:version="2.0.2"
           sparkle:dsaSignature="MCwCFDtX9dulHKAO6hAq/OXS+6jSaW15AhQdrLXBbEPuQrykdbXF2alEET2eJw=="
@@ -171,7 +171,7 @@
             https://selfcontrolapp.com/releasenotes.html#collapse-2-1
           </sparkle:releaseNotesLink>
           <pubDate>Mon, 04 Jan 2016 00:43:00 -0700</pubDate>
-          <enclosure url="http://downloads.selfcontrolapp.com/SelfControl-2.1.zip"
+          <enclosure url="https://downloads.selfcontrolapp.com/SelfControl-2.1.zip"
           length="2464615"
           sparkle:version="2.1"
           sparkle:dsaSignature="MCwCFCSsV1jLcvksU0qwCmWPtYCkCHOvAhRKODTqlu/snv4Ld4VVpEYhGFizhA=="
@@ -185,7 +185,7 @@
             https://selfcontrolapp.com/releasenotes.html#collapse-2-1-1
           </sparkle:releaseNotesLink>
           <pubDate>Tue, 12 Jan 2016 00:20:00 -0700</pubDate>
-          <enclosure url="http://downloads.selfcontrolapp.com/SelfControl-2.1.1.zip"
+          <enclosure url="https://downloads.selfcontrolapp.com/SelfControl-2.1.1.zip"
           length="2464623"
           sparkle:version="2.1.1"
           sparkle:dsaSignature="MCwCFEXQERe7742PjKBa/zzUhEUhiO7rAhRYQDKqmPlnwhY58pTzY1yVfGyQUg=="
@@ -199,7 +199,7 @@
               https://selfcontrolapp.com/releasenotes.html#collapse-2-2
           </sparkle:releaseNotesLink>
           <pubDate>Fri, 14 Jul 2017 22:05:27 -0700</pubDate>
-          <enclosure url="http://downloads.selfcontrolapp.com/SelfControl-2.2.zip"
+          <enclosure url="https://downloads.selfcontrolapp.com/SelfControl-2.2.zip"
               length="2468570"
               sparkle:version="2.2"
               sparkle:shortVersionString="2.2"
