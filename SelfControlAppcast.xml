@@ -209,5 +209,21 @@
           />
           <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
       </item>
+      <item>
+        <title>Version 2.2.1</title>
+        <sparkle:releaseNotesLink>
+            https://selfcontrolapp.com/releasenotes.html#collapse-2-2-1
+        </sparkle:releaseNotesLink>
+        <pubDate>Tue, 18 Jul 2017 00:37:57 -0700</pubDate>
+        <enclosure url="https://downloads.selfcontrolapp.com/SelfControl-2.2.1.zip"
+            length="2450401"
+            sparkle:version="2.2.1"
+            sparkle:shortVersionString="2.2.1"
+            sparkle:dsaSignature="MEUCIEi7DDyLk7N2F3p/EPsA6I1s+dIFtJDTB7Sd5EateWlBAiEA1SQZ3aBeQFPA
+dy6+HaxqkFzj7ppS1a5G2dpfEofuFEQ="
+            type="application/octet-stream"
+        />
+        <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
+      </item>
    </channel>
 </rss>
