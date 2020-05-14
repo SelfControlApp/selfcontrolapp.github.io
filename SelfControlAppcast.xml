@@ -289,5 +289,22 @@ fOzpGQ0hgfp5G9BpMKtem1IPyQ56ZDc+"
           type="application/octet-stream"
         />
       </item>
+      <item>
+        <title>Version 3.0</title>
+        <sparkle:releaseNotesLink>
+            https://selfcontrolapp.com/releasenotes.html#collapse-3-0
+        </sparkle:releaseNotesLink>
+        <pubDate>Thu, 14 May 2020 09:39:00 -0700</pubDate>
+        <enclosure url="https://downloads.selfcontrolapp.com/SelfControl-3.0.zip"
+            sparkle:version="3.0"
+            sparkle:shortVersionString="3.0"
+            sparkle:dsaSignature="MEQCIGhmXNf+GhGsBIlpk6gc3JWrd9hTfM6ApqnxJBj0FR1YAiAIbP5P9ML2qq+C
+MX2WjELTLX3jmCgHcTinGU8NrMIFZg=="
+            sparkle:edSignature="bTerMmHJ3t9tEyMC5YAO4g8jU2QAb+I6No+SLzj5D75lP3UEK0qeU8myF1KbuJdH8bZEKPQOl2j3aDF9vdB7CA=="
+            length="3510675"
+            type="application/octet-stream"
+        />
+        <sparkle:minimumSystemVersion>10.8</sparkle:minimumSystemVersion>
+      </item>
    </channel>
 </rss>
