@@ -306,5 +306,21 @@ MX2WjELTLX3jmCgHcTinGU8NrMIFZg=="
         />
         <sparkle:minimumSystemVersion>10.8</sparkle:minimumSystemVersion>
       </item>
+      <item>
+        <title>Version 3.0.1</title>
+        <sparkle:releaseNotesLink>
+            https://selfcontrolapp.com/releasenotes.html#collapse-3-0-1
+        </sparkle:releaseNotesLink>
+        <pubDate>Wed, 27 May 2020 21:07:01 -0700</pubDate>
+        <enclosure url="https://downloads.selfcontrolapp.com/SelfControl-3.0.1.zip"
+            sparkle:version="3.0.1"
+            sparkle:shortVersionString="3.0.1"
+            sparkle:dsaSignature="MEQCIEPGHb3wVEFf0QUDBv5H7dBBNx7RbidijMl+fsacmbU4AiB7wyUoh/MMJPOm
+17P/NLTtCeBNpaohoBL8cDDkysY8DQ=="
+            sparkle:edSignature="zjY9ev9sMnXuq0XkGhbub6n56vJMGWl+IvkkldLH9q/d2ZWD5slikIRSbXtqPuvr+tQ3bk9x0alfSUEQe1sbCg==" length="3512750"
+            type="application/octet-stream"
+        />
+        <sparkle:minimumSystemVersion>10.8</sparkle:minimumSystemVersion>
+      </item>
    </channel>
 </rss>
