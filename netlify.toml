@@ -1,6 +1,6 @@
 ## This rule redirects to an external API, signing requests with a secret
 [[redirects]]
   from = "/appcast.xml"
-  to = "https://sparkler.selfcontrolapp.com/feeds/selfcontrol"
+  to = "https://update.selfcontrolapp.com/feeds/selfcontrol"
   status = 301 
   force = true # COMMENT: ensure that we always redirect
