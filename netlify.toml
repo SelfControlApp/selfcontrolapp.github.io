@@ -4,3 +4,8 @@
   to = "https://update.selfcontrolapp.com/feeds/selfcontrol"
   status = 301 
   force = true # COMMENT: ensure that we always redirect
+
+  from = "/support"
+  to = "https://github.com/SelfControlApp/selfcontrol/wiki/SelfControl-Support-Hub"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
