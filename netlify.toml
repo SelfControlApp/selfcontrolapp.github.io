@@ -5,6 +5,7 @@
   status = 301 
   force = true # COMMENT: ensure that we always redirect
 
+[[redirects]]
   from = "/support"
   to = "https://github.com/SelfControlApp/selfcontrol/wiki/SelfControl-Support-Hub"
   status = 301
