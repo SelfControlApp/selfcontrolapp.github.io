@@ -370,5 +370,20 @@ MX2WjELTLX3jmCgHcTinGU8NrMIFZg=="
         />
         <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
     </item>
+     <item>
+        <title>Version 4.0.1</title>
+        <sparkle:releaseNotesLink>
+            https://selfcontrolapp.com/releasenotes.html#collapse-4-0-1
+        </sparkle:releaseNotesLink>
+        <pubDate>Sun, 03 Oct 2021 16:48:36 -1000</pubDate>
+        <enclosure url="https://downloads.selfcontrolapp.com/SelfControl-4.0.1.zip"
+            sparkle:version="4.0.1"
+            sparkle:shortVersionString="4.0.1"
+            sparkle:dsaSignature="MEQCICDiEL6iQUZkm0ld+9+ODtN6X1MKpzG7H+UtL9WpxWfwAiAssMOKehSLjsmu2GJ7kuFiGPE2rKBWL5HZEPxowIlrCg=="
+            sparkle:edSignature="osMaYLtOsT7OQd3DB2Y+HBTi4ac7R8DuK+NUcm/yi2yjKnB80UjL+uOiSntW87cxllqeZ7Tq4RWqlBw4UQqhAQ==" length="7425545"
+            type="application/octet-stream"
+        />
+        <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+    </item>
    </channel>
 </rss>
