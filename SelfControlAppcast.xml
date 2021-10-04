@@ -361,7 +361,7 @@ MX2WjELTLX3jmCgHcTinGU8NrMIFZg=="
         </sparkle:releaseNotesLink>
         <pubDate>Sat, 02 Oct 2021 21:23:13 -1000</pubDate>
         <enclosure url="https://downloads.selfcontrolapp.com/SelfControl-4.0.zip"
-            sparkle:version="4.0"
+            sparkle:version="407"
             sparkle:shortVersionString="4.0"
             sparkle:dsaSignature="MEYCIQCC8Lq+hce/iVRNwEskoZmIIECWUYz9uT/F+gUR270wygIhANMb/+Ek/8Xk1zpXCwK9ZDbKWsCfCwwLJPNUDg45zHGQ"
             sparkle:edSignature="kaflCNBSR7K0syKk0A62SzG4slpDJCYjFwPb3qSsVxjXwYdi6mBeO3M2ebYLRPt9Wb5E5Yh/jlIfsHgrcTnEDw=="
@@ -377,7 +377,7 @@ MX2WjELTLX3jmCgHcTinGU8NrMIFZg=="
         </sparkle:releaseNotesLink>
         <pubDate>Sun, 03 Oct 2021 16:48:36 -1000</pubDate>
         <enclosure url="https://downloads.selfcontrolapp.com/SelfControl-4.0.1.zip"
-            sparkle:version="4.0.1"
+            sparkle:version="408"
             sparkle:shortVersionString="4.0.1"
             sparkle:dsaSignature="MEQCICDiEL6iQUZkm0ld+9+ODtN6X1MKpzG7H+UtL9WpxWfwAiAssMOKehSLjsmu2GJ7kuFiGPE2rKBWL5HZEPxowIlrCg=="
             sparkle:edSignature="osMaYLtOsT7OQd3DB2Y+HBTi4ac7R8DuK+NUcm/yi2yjKnB80UjL+uOiSntW87cxllqeZ7Tq4RWqlBw4UQqhAQ==" length="7425545"
